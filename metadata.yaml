@@ -1,10 +1,16 @@
 _repo: Lichtbild-und-Kino-Technik-Lichtbuhnen-Bibliothek-Nr-1_49464
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49464-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Liesegang, Franz Paul
     gutenberg_agent_id: '41142'
     url: http://www.gutenberg.org/2009/agents/41142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49464#Lichtbild-und-Kino-Technik-Lichtbuhnen-Bibliothek-Nr-1
 gutenberg_issued: '2015-07-17'
 gutenberg_type: Text
 identifiers:
